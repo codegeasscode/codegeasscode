@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @codegeasscode
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Data Science
+- 📫 How to reach me codegeass.code1994@gmail.com
